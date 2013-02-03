@@ -1,0 +1,8 @@
+.*.sw?
+.sw?
+
+*.o
+
+cf0-cmp
+cf0-add
+cf0-or
