@@ -1,6 +1,6 @@
 CC := gcc
 
-override CFLAGS := -g -std=gnu99
+override CFLAGS := -g -std=gnu99 $(CFLAGS)
 
 all: cf0-cmp cf0-add cf0-or
 
